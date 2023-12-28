@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 👋 Hi, I'm Shivam Mudaliar </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=shiv-1203&color=brightgreen)
+
 Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
 
 Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeking new challenges. I love building cool stuff and solving complex problems with elegant code.
