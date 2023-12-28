@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shiv-1203&color=brightgreen&style=plastic&label=Profile+Views&height=40)
 
-Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
+**Software Developer | Web Developer | Problem Solver | Code Explorer** 🚀
 
-Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeking new challenges. I love building cool stuff and solving complex problems with elegant code.
+Welcome to my GitHub space! I'm **Shivam Mudaliar**, a passionate coder always seeking new challenges. I love building cool stuff and solving complex problems with elegant code.
 
 ---
 ### About Me
@@ -27,7 +27,7 @@ Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeki
 - 🌱 I am on a perpetual journey of learning and exploring emerging technologies.
 - 🤔 My coding philosophy revolves around simplicity and efficiency.
 - 💼 Currently, I am focused on honing my backend development skills.
-- 🎓 Final year student at SVNIT, pursuing a B.Tech in Electronics and Communication Engineering.
+- 🎓 Final year student at **SVNIT**, pursuing a **B.Tech in Electronics and Communication Engineering**.
 - 👯 I am eager to collaborate on innovative projects.
 - 💬 Feel free to ask me anything; I strive not to disappoint.
 - 🎸 Fact: I never play with people's emotions.
