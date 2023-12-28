@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 👋 Hi, I'm Shivam Mudaliar
 
 Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
