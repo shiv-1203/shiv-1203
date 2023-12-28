@@ -42,30 +42,30 @@ Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeki
 ---
 ### 📊 GitHub Stats
 ---
-<div align="center">
+<p align="center">
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv-1203&show_icons=true&theme=default&count_private=true)
-</div>
+</p>
 
 ---
 ### 📊 Most Used Languages
 ---
-<div align="center">
+<p align="center">
   ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-1203&layout=compact&theme=default)
-</div>
+</p>
 
 ---
 ### 📈 Contribution Streak
 ---
-<div align="center">
+<p align="center">
   ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv-1203&theme=default)
-</div>
+</p>
 
 ---
 ### 📊 Contribution Stats
 ---
-<div align="center">
+<p align="center">
   ![Your GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=shiv-1203&theme=default)
-</div>
+</p>
 
 ---
 ### 🤝 Let's Connect
