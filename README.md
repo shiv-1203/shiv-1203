@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 👋 Hi, I'm Shivam Mudaliar </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shiv-1203&color=brightgreen&style=plastic&label=Profile+Views&height=70)
+![Profile Views](https://komarev.com/ghpvc/?username=shiv-1203&color=brightgreen&style=plastic&label=Profile+Views&height=70px)
 
 Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
 
