@@ -42,30 +42,17 @@ Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeki
 ---
 ### 📊 GitHub Stats
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv-1203&show_icons=true&theme=default&count_private=true" alt="shiv-1203_Github_Stats">
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv-1203&show_icons=true&theme=default&count_private=true)
 
 ---
 ### 📊 Most Used Languages
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-1203&layout=compact&theme=default" alt="shiv-1203_Languages_Stats">
-</p>
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-1203&layout=compact&theme=default)
 
 ---
 ### 📈 Contribution Streak
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-1203&theme=default" alt="shiv-1203_Github_Stats">
-</p>
-
----
-### 📊 Contribution Stats
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shiv-1203&theme=default" alt="shiv-1203_Github_Stats">
-</p>
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv-1203&theme=default)
 
 ---
 ### 🤝 Let's Connect
