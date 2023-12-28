@@ -43,7 +43,7 @@ Welcome to my GitHub space! I'm Shivam Mudaliar, a passionate coder always seeki
 ### 📊 GitHub Stats
 ---
 <p align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv-1203&show_icons=true&theme=default&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=shiv-1203&show_icons=true&theme=default&count_private=true" alt="shiv-1203_Github_Stats">
 </p>
 
 ---
