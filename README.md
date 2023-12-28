@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 👋 Hi, I'm Shivam Mudaliar </h1>
 
-<a href="https://github.com/shiv-1203/"><img align="left" src="https://komarev.com/ghpvc/?username=shiv-1203t&label=Profile%20views&color=6930C3&style=for-the-badge" alt="shiv-1203" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=shiv-1203&color=brightgreen&style=plastic&label=Profile+Views&height=40)
 
 Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
 
