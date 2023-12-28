@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Shivam Mudaliar
+<h1 align="center"> 👋 Hi, I'm Shivam Mudaliar </h1>
 
 Software Developer | Web Developer | Problem Solver | Code Explorer 🚀
 
